@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 import glsl from 'vite-plugin-glsl';
 
 export default defineConfig({
-  base: '/threejs-text-hover-display-3d-model/',
+  base: '/threejs-venus-3d-model-chromatic-aberration-text/',
   root: 'src/',
   publicDir: '../public/',
   plugins: [glsl()],

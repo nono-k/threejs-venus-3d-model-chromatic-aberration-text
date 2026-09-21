@@ -1,10 +1,11 @@
-# Three.js Lens Distorted Typography Entering Circle
+# Three.js Venus 3D Model with Chromatic Aberration and Text
 
+Three.jsでGLBモデルを読み込み、色収差のあるガラス表現を実装する
 
 ## 解説記事
 
-[Three.jsで跳ね返る円の中に入ったらテキストをレンズ歪みさせる表現](https://hypb.dev/articles/threejs-lens-distortion-text-entering-circle/)
+[Three.jsでGLBモデルを読み込み、色収差のあるガラス表現を実装する](https://hypb.dev/articles/threejs-glass-3d-model-chromatic-aberration-text/)
 
 ## Demo
 
-[https://nono-k.github.io/threejs-distorted-typography-entering-circle/](https://nono-k.github.io/threejs-distorted-typography-entering-circle/)
+[https://nono-k.github.io/threejs-venus-3d-model-chromatic-aberration-text/](https://nono-k.github.io/threejs-venus-3d-model-chromatic-aberration-text/)
