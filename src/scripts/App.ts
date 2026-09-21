@@ -91,7 +91,7 @@ export class App extends Three {
   private loadModel(url: string) {
     const loader = new GLTFLoader();
     const dracoLoader = new DRACOLoader();
-    dracoLoader.setDecoderPath(`/${basePath}/assets/draco/`);
+    dracoLoader.setDecoderPath(`/${basePath}/draco/`);
 
     loader.setDRACOLoader(dracoLoader);
 
